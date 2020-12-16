@@ -1,0 +1,24 @@
+{
+  "short_name": "ダビコミュβ",
+  "name": "ダビマスコミュニティβ｜『ダービースタリオン マスターズ（ダビマス）』公式サイト",
+  "description": "ダビマスコミュニティβは、ユーザーのみなさん同士で交流や相談ができるダビマス公式のコミュニティです。",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "128x128 64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon_144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "dir": "ltr",
+  "lang": "ja-jp",
+  "theme_color": "#0C9D0C",
+  "background_color": "#ffffff"
+}
